@@ -1,5 +1,5 @@
 # All C:\ Drive Apps
-## WARNING: Use this .psi file at your own risk.
+## WARNING: Use this .ps1 file at your own risk.
 But why?
 
 Because, if you run this .ps1 file, you might break your pc and cause Automatic Repair.
